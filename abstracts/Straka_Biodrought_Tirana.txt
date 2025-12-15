@@ -1,0 +1,6 @@
+BIODROUGHT: a macroinvertebrate-based index to identify antecedent drying
+
+Authors: Straka M., Polášek P., Loskotová B., Zoltán C., Zweidick O., Graf W., Meyer E. I., Pařil P.
+
+Project Summary:
+The BIODROUGHT project, run from 2012-2015 under the leadership of Dr. Pařil, developed a new tool to identify previous stream drying using benthic invertebrates. A research team was established to gain theoretical and empirical knowledge about intermittent streams (IRES). The resulting BIODROUGHT index was subsequently validated and published during the SMIRES project (2016-2020) through cooperation with R. Stubbington and T. Datry.

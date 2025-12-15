@@ -1,0 +1,38 @@
+LEITFADEN ZUR ERHEBUNG DER BIOLOGISCHEN QUALITÄTSELEMENTE
+TEIL A2 - MAKROZOOBENTHOS
+(Guidelines for the Assessment of Biological Quality Elements - Part A2: Macrozoobenthos)
+
+ABSTRACT/SUMMARY
+
+This guideline describes a standardized method for assessing the ecological status of flowing waters (rivers and streams) in Austria based on the quality element of macrozoobenthos (benthic invertebrates). The method was developed in response to the EU Water Framework Directive (2000/60/EG) requirements for comprehensive, integrated biological assessment of water bodies.
+
+Key Features:
+
+- Two-tiered assessment system:
+  1. Screening Method: For rapid orientation assessment
+  2. Detailed Macrozoobenthos Method: For comprehensive evaluation with stressor-specific modules
+
+- Three stressor-specific modules in the detailed method:
+  1. Saprobic (organic) loading assessment
+  2. General degradation evaluation
+  3. Acidification assessment
+
+- Sampling method: Multi-Habitat-Sampling (MHS) principle for both assessment levels
+
+- Assessment approach: Uses multimetric indices based on biological metrics to evaluate various aspects of benthic fauna
+
+- Limitations:
+  - Applicable only to waterbodies with catchment areas > 10 km²
+  - Cannot detect stressors affecting primarily quantitative aspects of the biocommunity (e.g., flow regime impacts)
+  - Not universally applicable to all water body types and special typologies
+  - Requires water body type-specific reference values for accurate classification
+
+- Reference assessment categories: "very good ecological status" or "good ecological status" based on worst-case principle among evaluated parameters
+
+The method encompasses complete protocols for field sampling, sample processing, organism identification, and result determination. Supporting software (ECOPROF) is available for calculations and data analysis.
+
+Authors: Thomas Ofenböck, Otto Moog, Anne Hartmann, Ilse Stubauer
+Institution: University of Natural Resources and Life Sciences (BOKU), Vienna
+Version: A2-01g_MZB
+Publication Date: February 2010
+ISBN: 978-3-85174-060-8

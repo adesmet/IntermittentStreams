@@ -1,0 +1,11 @@
+1. Although intermittent rivers (IRs) are coupled aquatic and terrestrial ecosystems, their constituent communities are generally considered separately by ecologists. Yet, both communities are disturbed by alternating flowing and dry phases. IRs are thus good systems in which to explore the parallels and contrasts in community organisation in response to disturbance, and gain understanding in the drivers of these responses.
+
+2. We compared the structure and composition of aquatic and terrestrial communities in the Albarine River, France. We collected aquatic and/or terrestrial invertebrates in the riverbed and adjacent riparian zone at four intermittent reaches and aquatic invertebrates in the riverbed at three perennial reaches over 1 year.
+
+3. A total of 175 taxa were collected at intermittent reaches, including 62 aquatic and 113 terrestrial taxa, contrasting with the low biodiversity generally associated with IRs.
+
+4. Aquatic and terrestrial communities were mainly subsets of those in perennial reaches and in the riparian zone, respectively, indicating that the riverbed of intermittent reaches is strongly linked to perennial reaches and the riparian zone by dispersal.
+
+5. Total taxonomic richness in the riverbed (i.e. c diversity) of intermittent reaches was mainly due to among-reach variation for terrestrial invertebrates, but to within-reach variation for aquatic invertebrates. For both communities, among-reach dissimilarity was mainly due to spatial turnover rather than community nestedness. Spatial turnover was higher for terrestrial communities than for aquatic communities.
+
+6. Our results indicate that aquatic and terrestrial communities have different organisation patterns in this intermittent river; probably in response to the contrasting spatial arrangements of colonist sources. Heterogeneous sources of terrestrial colonists along the riparian zone compared to more homogeneous sources of aquatic colonists from perennial reaches could explain the relative contribution of nestedness versus turnover.

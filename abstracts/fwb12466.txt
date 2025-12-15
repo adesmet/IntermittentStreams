@@ -1,0 +1,11 @@
+The prospect of increasing drought intensity in many river basins under climate change threatens the persistence of vulnerable freshwater species. Understanding how the traits of each species affect its resistance and resilience to drought may help to identify those species at most risk and elucidate the mechanisms by which impacts occur.
+
+Macroinvertebrate monitoring data were analysed from rivers across Australia's Murray–Darling Basin (>106 km2) during the middle and later stages of the recent decade-long Millennium Drought and the initial post-drought period. The ability of eight traits, expressing aspects of life history, diet and environmental tolerance, was tested to explain changes in the broad-scale prevalence (the proportion of sites with observed presence) of macroinvertebrate families during and after the drought.
+
+The rate of basin-scale change in the riverine macroinvertebrate assemblage was least in the final stages of the drought. Immediately after the drought, the assemblage did not shift back towards its mid-drought state but instead moved further away. Eleven families that had a statistically significant fall in prevalence during the drought did not increase afterwards.
+
+Negative responses to drought were associated with slower maturation, absence of atmospheric respiration, high rheophily and low thermophily. Positive responses to cessation of drought were associated with having a holometabolous life cycle, greater requirements for dissolved oxygen, high rheophily and low thermophily.
+
+Management to mitigate the adverse ecological effects of future droughts should consider a number of mechanisms by which drought has an effect. These include a loss of flowing water that supports rheophilous species, inadequate duration of wetting for species with a long aquatic phase, and effects of high temperature and hypoxia on species requiring cool conditions and well-aerated water.
+
+A revival of research on the life histories of freshwater invertebrate species and more information on oxygen requirements and temperature and desiccation tolerance are needed to improve the ability to predict the effects of drought.

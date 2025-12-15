@@ -1,0 +1,7 @@
+This document is a Data Management Plan (Plan upravljanja istrazivackim podacima) for the DinDRY project, not a research article with an abstract.
+
+Project: Spatio-temporal variability of terrestrial and aquatic communities in intermittent streams of Dinaric karst (DinDRY)
+
+Principal Investigator: Assoc. Prof. Andreja Brigic, Faculty of Science, Department of Biology, University of Zagreb
+
+The plan describes the collection and analysis of terrestrial fauna samples and environmental parameters from intermittent rivers in the Dinaric karst region. Data will be stored in Excel format and analyzed using statistical software (PRIMER, SPSS, Canoco, R) to determine standard biocenological parameters including abundance, species richness, and diversity. The project follows FAIR data principles with data to be shared through the institutional repository (Dabar).

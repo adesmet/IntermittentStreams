@@ -1,0 +1,9 @@
+Predgovor
+
+Ta učbenik je namenjen vsem tistim, ki želite pridobiti poglobljeno znanje o analizah podatkov z uporabo programskega orodja R na področju vodarstva in okoljskega inženirstva ter se naučiti učinkovito uporabljati programsko orodje R kot orodje za obdelavo, analize in interpretacijo podatkov. Še posebej je učbenik namenjen študentom pri predmetu Programsko orodje R v vodarstvu in drugih predmetih, kjer se programsko orodje R pogosto uporablja, kot sta Hidrologija in Hidrološko modeliranje.
+
+Programsko orodje R je odprtokodno in prostodostopno statistično orodje, ki nudi širok nabor funkcij za analizo podatkov, vizualizacijo rezultatov ter razvoj statističnih in drugih modelov. V sklopu učbenika bomo skozi praktične primere in grafične prikaze raziskovali, kako uporabiti programsko orodje R za reševanje različnih problemov na področju vodarstva in okoljskega inženirstva ter širše. Obogatili bomo znanje s konkretnimi primeri analiz vodarskih podatkov, hidroloških modelov, prostorskih analiz in drugih ključnih vidikov tega pomembnega področja. V učbeniku so prikazani številni praktični primeri uporabe programskega jezika R in številnih paketov, na voljo pa je še veliko drugih paketov, katerih uporabe tu ne prikazujemo posebej.
+
+Namen tega učbenika ni le usvojiti tehnično znanje o programskem orodju R, temveč tudi spodbuditi razmišljanje o kompleksnih vprašanjih, povezanih z vodarstvom, ter razviti sposobnost kritičnega pristopa k analizi in interpretaciji podatkov in modelov. Vključene so tudi krajše praktične naloge, s katerimi lahko dodatno poglobite svoje znanje.
+
+Verjamem, da bo ta učbenik koristno orodje za študente, raziskovalce, strokovnjake in vse tiste, ki se želijo poglobiti v področje vodarstva s pomočjo programskega orodja R. Želim vam uspešno delo in veliko zadovoljstva pri raziskovanju vodarskih izzivov!

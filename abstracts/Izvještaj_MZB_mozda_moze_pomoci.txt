@@ -1,0 +1,18 @@
+Uvod
+
+Okvirna direktiva o vodama Europske unije 2000/60/EK (ODV) propisuje da se nacionalna klasifikacija dobrog ekološkog stanja uskladi s normativnim definicijama kroz interkalibracijski postupak. Za izabrane zajedničke interkalibracijske tipove, interkalibracija velikog broja bioloških elemenata kakvoće na evropskoj razini je završena, a rezultati su objavljeni u Odluci Europske komisije o utvrđivanju, u skladu s ODV, vrijednosti klasifikacijskih sustava zemalja članica kao rezultata interkalibracijskih postupaka (2018/229/EU). Svaki pojedinačni postupak je vođen u okviru geografskih interkalibracijskih grupa (Geographic Intercalibration Group - GIG) i slijedio je proceduru opisanu u CIS vodiču br. 14 o interkalibracijskom procesu (Guidance Document on the Intercalibration Process 2008-2011, Europska komisija, 2011.).
+
+Za većinu metoda ocjene ekološkog stanja rijeka u Hrvatskoj bilo je potrebno provesti samostalni interkalibracijski postupak, u skladu s postupcima opisanima u CIS vodiču br. 30. (Procedure to fit new or updated classification methods to the results of a completed intercalibration, Europska komisija, 2015.).
+
+Cilj interkalibracijskog procesa je postizanje dosljednosti i usporedivosti rezultata ocjene sustava monitoringa i ocjene ekološkog stanja u zemljama članicama Europske unije za biološke elemente kakvoće. Kako bi se to postiglo, svaka zemlja članica mora utvrditi omjere ekološke kakvoće (OEK) za granice između vrlo dobrog (VD) i dobrog (D) stanja te dobrog (D) i umjerenog (U) stanja, koje su u skladu s normativnim definicijama iz ODV.
+
+Ciljevi ovog projekta su:
+- provedba bioloških istraživanja i monitoringa fitobentosa, makrofita i makrozoobentosa u rijekama koje pripadaju zajedničkim interkalibracijskim tipovima MED GIG (Mediterranean Geographic Intercalibration Group),
+- sažimanje svih postojećih podataka i podataka prikupljenih u okviru ovog projekta,
+- analiza bioloških metoda ocjene ekološkog stanja za fitobentos, makrofita i makrozoobentos,
+- uklapanje metoda u harmoniziranu definiciju dobrog ekološkog stanja uspostavljenu kroz interkalibracijski proces,
+- izrada interkalibracijskih izvješća ili izvješća kada interkalibracija nije provedena, za biološke elemente kakvoće fitobentos, makrofita i makrozoobentos u svim zajedničkim interkalibracijskim tipovima rijeka,
+- izrada metodologije uzorkovanja, laboratorijskih analiza i određivanja omjera ekološke kakvoće bioloških elemenata kakvoće te
+- izrada prijedloga granica klasa za fizikalno-kemijske elemente kakvoće za tipove rijeka obuhvaćene projektom.
+
+U svakoj od interkalibracijskih grupa formirani su zajednički tipovi tekućica za koje je izvršena harmonizacija nacionalnih sustava ocjene ekološkog stanja.

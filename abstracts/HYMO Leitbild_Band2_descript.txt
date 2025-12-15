@@ -1,0 +1,45 @@
+HYDROMORPHOLOGISCHE LEITBILDER - FLIESSGEWÄSSERTYPISIERUNG IN ÖSTERREICH
+Band 2: Naturraumbeschreibungen, Bioregionen und Typologie
+
+DOCUMENT SUMMARY:
+
+This technical document (Band 2) provides detailed natural region descriptions, bioregions, and stream typifications across Austria. Published in February 2012 by the Austrian Federal Ministry for Agriculture, Forestry, Environment and Water Management, the work describes hydromorphological reference models for flowing water systems.
+
+The document is organized by 15 major bioregions/natural regions:
+
+1. Vergletscherte Zentralalpen (Glaciated Central Alps)
+   - Location: from Silvretta to Hohen Tauern
+   - Geology: Crystalline silicate rocks (gneiss and schist)
+   - Relief: Glaciated crest high mountains
+   - Elevation: 800-3,797 m
+   - Discharge regime: Glacial and nival (snow-melt) regimes
+   - Zoogeographic region: Alps
+   - Contains approximately 900 glaciers covering 540 km² (as of publication)
+
+The first bioregion is characterized by its high western sections with peak elevations exceeding 3,000 meters, shaped significantly by Pleistocene glaciation. Despite major glacial retreat since the mid-19th century, significant glaciation remains. The region features complex geology including Paragneisses, crystalline gneisses, and the notable Tauernfenster (tectonic window).
+
+ADDITIONAL BIOREGIONS COVERED:
+
+2. Unvergletscherte Zentralalpen (Ungiaciated Central Alps)
+3. Bergrückenlandschaft (Ridge landscape)
+4. Flysch
+5. Kalkvoralpen (Limestone forehills)
+6. Kalkhochalpen (Limestone high mountains)
+7. Südalpen (Southern Alps)
+8. Helvetikum
+9. Alpine Molasse
+10. Vorarlberger Alpenvorland
+11. Bayer.-Österr. Alpenvorland (Bavarian-Austrian Alpine foothills)
+12. Granit- und Gneisgebiet (Granite and gneiss region)
+13. Östl. Flach- und Hügelländer (Eastern flat and hilly lands)
+14. Grazer Feld und Grabenland
+15. Südliche inneralpine Becken (Southern inner-alpine basins)
+
+Each bioregion includes detailed stream type descriptions (multiple types per region, designated TYP [number]-[characteristics]).
+
+AUTHORS:
+- DI Reinhard Wimmer
+- Dr. Harald Wintersberger
+- DI Günter A. Parthl
+
+Source material derived from: WIMMER, R., PARTHL, G. & WINTERSBERGER, H. (2007): Hydromorphologische Leitbilder in Österreich, interaktive DVD

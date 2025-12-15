@@ -1,0 +1,13 @@
+Resistance and resilience of invertebrate communities to seasonal and supraseasonal drought in arid-land headwater streams
+
+1. Climate change is expected to intensify drought in many regions, but ecological impacts on stream communities are poorly understood. Many arid-land streams are characterised by predictable seasonal cycles of wetting and drying, to which species are adapted, but unpredictable supraseasonal droughts may constitute extreme events that challenge resident biota.
+
+2. In this article, we synthesise research conducted in arid-land streams of the Madrean Sky Islands (MSI) in Arizona, U.S.A, to evaluate the resistance and resilience of invertebrate communities to drying disturbances caused by normal seasonal drying and severe supraseasonal drought. We also highlight how spatial context (e.g. distance to perennial refuges) influences recovery patterns.
+
+3. Invertebrate community structure changes predictably as habitat contraction progresses from loss of lateral connectivity to complete drying of MSI streams. When drying events are predictable (e.g. seasonal drying), post-drought community recovery is often rapid, since most MSI taxa possess life history traits conferring high resistance and/or resilience to stream drying.
+
+4. Extreme supraseasonal droughts, in contrast, cause unprecedented transitions from perennial to intermittent flow in some MSI streams. While species richness may recover quickly following this flow regime shift, marked turnover in community structure can occur and may delay or preclude recovery to pre-drought conditions. In such cases, short-lived (<1 year) strong dispersers replace relatively long-lived (≥1 year) weak dispersers. As habitat isolation increases, the potential for community recovery from extreme drought decreases.
+
+5. Many MSI aquatic species are threatened by extreme drought. Extinctions of endemic aquatic species due to habitat drying have already been observed in nearby deserts. Further studies are urgently needed to identify drought-sensitive species and understand how the loss of such species may affect stream ecosystem functioning.
+
+Keywords: community recovery, disturbance, extreme climatic events, flow regime, long-term study

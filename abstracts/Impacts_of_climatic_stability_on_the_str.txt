@@ -1,0 +1,11 @@
+Impacts of climatic stability on the structural and functional aspects of macroinvertebrate communities after severe drought
+
+Unpredictable, extreme climatic events (e.g. droughts) can potentially destabilize aquatic communities. From 1998 to 2002, southwestern Georgia, U.S.A., experienced the third worst drought of the last 100 years, leading to loss of surface flow in many small streams. We sampled macroinvertebrates, flow and water chemistry in small headwater streams from 2001 to 2007 in two adjacent coastal plain streams of contrasting headwater type (wetland and groundwater-fed seep) following resumption of flow.
+
+Decreasing water temperature, conductivity and nutrient concentrations within the first 2 years of the study indicated flushing of the streambed associated with increased discharge. Invertebrate community composition became less variable over time and during wetter years, reflecting water chemistry, hydrological and climate conditions.
+
+A core set of species appeared immediately following breaking of the drought in both streams, reflecting a shared species pool. These species exhibited resilience traits, including short life cycles and resistance to desiccation, which allowed for rapid recovery from disturbance. Such species, which were small-bodied, sclerotized and abundant in the drift, were then replaced as flows increased by those that were larger, soft-bodied and rare in drift, suggesting a more stable and less ephemeral habitat.
+
+Hydrologic regime and long-term precipitation indices were strongly correlated with invertebrate community and trait structure. Long-term data allowed for better interpretation of the effects of infrequent disturbances on aquatic ecosystems. Additionally, long-term precipitation indices (i.e. 48-month standardized precipitation index) can indicate the likelihood of a return to drought, allowing for the collection of pre-disturbance data.
+
+Keywords: disturbance, drought, headwater streams, macroinvertebrates, traits

@@ -1,0 +1,9 @@
+Title: Unlocking our understanding of intermittent rivers and ephemeral streams with genomic tools
+
+Authors: Rosetta C Blackman, Florian Altermatt, Arnaud Foulquier, Tristan Lefebure, Mailys Gauthier, Agnes Bouchez, Rachel Stubbington, Alexander M Weigand, Florian Leese, and Thibault Datry
+
+Source: Frontiers in Ecology and the Environment, 2021; 19(10):574-583
+
+DOI: 10.1002/fee.2404
+
+Abstract: Intermittent rivers and ephemeral streams (IRES) - waterways in which flow ceases periodically or that dry completely - are found worldwide, and their frequency and extent are expected to increase in the future in response to global climate change and growing anthropogenic demand for fresh water. Repeated wet-dry cycles generate highly dynamic settings within river networks composed of aquatic and terrestrial habitats, which act as evolutionary triggers for aquatic and terrestrial biota. Drying also alters functions and processes within river networks, with consequences for ecosystem services. Despite the emergence of promising conceptual and methodological developments, our understanding of the occurrence and diversity of organisms in these ecosystems is limited primarily due to their coupled aquatic-terrestrial characteristics. Novel genomic tools based on high-throughput sequencing have the potential to tackle unanswered questions of pivotal importance to predict future change in IRES. Here, we outline why genomic tools are needed to assess these dynamic ecosystems from the population to the metacommunity scale, and their potential role in bridging ecological-evolutionary dynamics.

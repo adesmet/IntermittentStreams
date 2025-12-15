@@ -1,0 +1,9 @@
+IN A NUTSHELL:
+
+Hydrological connectivity extends and interacts over longitudinal, lateral, and vertical dimensions in intermittent rivers and ephemeral streams (IRES), varying more than in perennially flowing systems.
+
+In IRES, hydrological connectivity is primarily controlled by interactions between channel features (e.g., size, shape, substrate composition) and flow regime (e.g., duration and timing of streamflow), often modified by human activities.
+
+Flow intermittence disrupts hydrological connectivity at multiple scales, creating nonlinear and patchy "discontinua" that strongly influence physical, chemical, and ecological patterns and processes in space and time.
+
+A proposed conceptual framework explores three aspects of hydrological connectivity and potential effects of intermittence.

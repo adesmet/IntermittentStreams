@@ -1,0 +1,24 @@
+EXTRACTION STATUS: UNABLE TO EXTRACT
+
+PDF ANALYSIS:
+- File: Evironmental_constrains_in_temporary_fresh_water.pdf
+- Total pages: 17
+- Format: PDF 1.5 (scanned document)
+- Creator: HP PrecisionScan Pro 3.0
+- Created: 2004-01-15
+
+REASON FOR FAILURE:
+This PDF is a scanned document (image-only) with no searchable text layer. The standard text extraction method (PyMuPDF) returns no text content from any of the 17 pages.
+
+WHAT IS NEEDED:
+To extract the abstract from this document, you would need:
+1. OCR (Optical Character Recognition) software installed, such as:
+   - Tesseract (command-line tool)
+   - EasyOCR (Python library)
+   - PaddleOCR (Python library)
+   - Cloud-based OCR services (Google Vision API, Azure OCR, etc.)
+
+2. OR manual extraction of the abstract text from the scanned PDF
+
+RECOMMENDATION:
+Install an OCR tool or use a cloud-based OCR service to process this scanned document. Once done, the extract_pdf_page.py script can be modified to use OCR extraction for scanned PDFs.

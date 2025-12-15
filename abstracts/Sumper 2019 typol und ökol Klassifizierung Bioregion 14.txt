@@ -1,0 +1,11 @@
+The EU Water Framework Directive (WFD) requires an examination of the ecological status of water bodies including the biological quality element macrozoobenthos. However, the results of the assessment of the ecological status in the region "Grazer Feld und Grabenland" (ecoregion 14) within the framework of the "Ordinance on the Monitoring of the Quality of Water Bodies" are not reasonable.
+
+The aim of this research is to examine the adaptation of the assessment method to the ecoregion 14, as well as to analyse seasonal differences in the colonisation of benthos and their influence on the assessment. Furthermore, the special type "intermittent stream" should be identified by means of indicator species.
+
+In April 2016, ten morphologically near-natural sampling sites were defined as reference sites and examined according to the "Guidance on the monitoring of the biological quality elements, part A2 macrozoobenthos". To conduct the analyses, additional data from the ecoregion 14 "Grazer Feld und Grabenland", 13 "Östliche Flach- und Hügelländer" and 3 "Bergrückenlandschaft" was used.
+
+Ecoregion 14 has been identified as a distinct typological region, with seasonal differences in the structure of biological communities within the ecoregion. The designation of intermittent streams as a special type was conducted by means of an "indicator species analysis" using indicator species for temporary water bodies. For the ecological assessment of intermittent and perennial water bodies suitable metrics could be found.
+
+Taking into account the sampling time in spring, a recommendation for an adjustment of the assessment could be given. For these adaptations as well as the designation of reference sites, further investigations regarding the hydrology and physico-chemical conditions are needed.
+
+In addition, this research contributed to the establishment of a reference database for genetic taxonomic aids (ABOL barcoding, eDNA) by sequencing the COI gene of selected species, for example rare indicator species for intermittent streams.

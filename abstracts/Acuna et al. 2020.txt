@@ -1,0 +1,11 @@
+River ecosystems world-wide are affected by altered flow regimes, and advanced science and practice of environmental flows have been developed to understand and reduce these impacts. But most environmental flows approaches ignore flow intermittency, which is a natural feature of 30% of the global river network length. Ignoring flow intermittency when setting environmental flows in naturally intermittent rivers might lead to deleterious ecological effects.
+
+We review evidence of the ecological effects of flow intermittency and provide guidance to incorporate intermittency (non-flow events) into existing methods judged as suitable for application in temporary waterways.
+
+To better integrate non-flow events into hydrological methods, we propose a suite of new indicators to be used in the range of variability approach. These indicators reflect dry periods and the unpredictable nature of temporary waterways. We develop a predictability index for protecting those species adapted to temporary conditions.
+
+For hydraulic-habitat models, we find that mesohabitat methods are particularly effective for describing complex habitat dynamics during dry phases. We present an example of the European eel to show the relationship between discharge and non-flow days and wet area, habitat suitability and connectivity.
+
+We find that existing holistic approaches may be applied to temporary waterways without significant structural alteration to their stepwise frameworks, but new component methods are needed to address flow-related aspects across both flow and non-flow periods of the flow regime.
+
+Synthesis and applications. Setting environmental flow requirements for temporary waterways requires modification and enhancement of existing approaches and methodologies, most notably the explicit consideration of non-flow events and

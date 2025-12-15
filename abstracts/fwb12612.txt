@@ -1,0 +1,11 @@
+SUMMARY
+
+1. Current trends indicate that the duration of the period with no surface flow experienced by temporary waterways is increasing. Even though several studies have already characterised the effects of non-flow periods on stream ecosystems, the consequences of their increasing duration remain poorly understood.
+
+2. Replicate artificial streams were used to characterise the effects of the duration of the non-flow period on stream biofilm processes. We hypothesised that increased duration of the non-flow period would differentially influence autotrophic and heterotrophic processes and promote heterotrophy (lower P : R ratios). We aimed to identify possible non-linearities and thresholds in the disturbance–response relationships between the duration of the non-flow period (six treatments) and stream biofilm processes (six ecological variables representing autotrophic or heterotrophic processes).
+
+3. The duration of the non-flow period proved to be important for the balance between autotrophic and heterotrophic processes in stream biofilms, with the autotrophic processes being less resistant but more resilient. Autotrophic and heterotrophic processes also differed in terms of disturbance–response relationships, which were linear for most autotrophic ecological variables and sigmoid logistic for heterotrophic variable. Hence, non-flow periods had an immediate effect on autotrophic processes, but the effect on heterotrophic processes was delayed and completed only after crossing the ecological threshold of complete desiccation.
+
+4. These differences involved a shift towards lower P : R ratios at longer durations of the non-flow period. However, the high resilience of autotrophic processes, mainly related to the ability of diatoms to recover, limited the shift towards lower P : R ratios to the non-flow period and to the first weeks after flow return.
+
+5. This study demonstrates the complex effects of flow intermittency on stream biofilm processes, and emphasises the relevance of the duration of the non-flow period as a predictor of the effects on temporary waterways.

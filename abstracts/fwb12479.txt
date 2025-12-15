@@ -1,0 +1,9 @@
+Macroinvertebrate survival during cessation of flow and streambed drying in a lowland stream
+
+1. The number of perennial low-order lowland streams likely to experience intermittent flow is predicted to increase in north-western Europe. To understand the effects of such a change on macroinvertebrates, a field experiment was carried out in a currently perennial sandy lowland stream.
+
+2. Using a before–after control–impact design, the flow regime was manipulated to yield two distinct treatments: stagnation (although with little water loss) and drying of the stream (although artificial remnant pools remained in the bed). There was also an unmanipulated control reach. The two treatments were applied simultaneously in separate, consecutive reaches, resulting in 29 days of stagnation and 25 days of streambed drying with surface water only present in the remnant pools. Changes in macroinvertebrate richness, abundance and community composition were recorded, and we assessed whether these changes could be explained by ecological preferences for flow of the various taxa.
+
+3. Stagnation resulted in only minor changes in community composition. A small number of rheophilic taxa disappeared, while taxa preferring standing waters complemented those already present, increasing total biodiversity. In remnant pools in the otherwise dry reach, richness and abundance peaked after they became isolated, indicating a concentration of invertebrates. A subsequent steep decline in richness coincided with hypoxia and increasing conductivity. Culex pipiens/torrentium colonised the pools and was then dominant. Only a small subset of the assemblage successfully used the dry streambed as a refuge.
+
+4. The effect of a shift from perennial to intermittent flow evidently depends on the degree of habitat change. Environmental conditions after cessation of flow are crucial in determining lowland stream macroinvertebrate persistence during water drawdown.

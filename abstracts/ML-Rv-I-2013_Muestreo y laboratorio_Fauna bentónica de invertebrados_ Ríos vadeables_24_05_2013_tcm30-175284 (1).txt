@@ -1,0 +1,9 @@
+OBJECTIVE AND SCOPE
+
+The sampling of this protocol is aimed at obtaining data on the composition and abundance of benthic macroinvertebrates, which are the group used in the classification of ecological status. These are invertebrates of a relatively large size (visible to the human eye), no less than 0.5 mm. They mainly include arthropods (insects, arachnids and crustaceans) together with oligochaetes, hirudineans and molluscs and, less frequently, coelenterates, bryozoans or platyhelminthes.
+
+Directive 2000/60/EC, the Water Framework Directive, requires Member States to implement monitoring programmes. These programmes must enable the composition and abundance of benthic invertebrate fauna to be monitored and assessed.
+
+This protocol corresponds to the sampling and laboratory analysis of benthic invertebrate fauna in water bodies in the river category, as well as to artificial or highly modified water bodies similar to rivers that are fordable, and is applicable to obtaining samples for the classification of ecological status or ecological potential.
+
+The objective of this protocol is to establish a method of sampling benthic invertebrates in rivers that guarantees compliance with the requirements mentioned above. The information collected through this protocol provides valid data for calculating the metrics established in the Hydrological Planning Instruction (Order 2656/2008) for the quality element corresponding to the composition and abundance of benthic invertebrate fauna.

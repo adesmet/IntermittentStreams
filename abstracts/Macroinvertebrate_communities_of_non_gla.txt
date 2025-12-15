@@ -1,0 +1,15 @@
+Macroinvertebrate communities of non-glacial high altitude intermittent streams
+
+SUMMARY
+
+1. Macroinvertebrate assemblages of five non-glacial intermittent high altitude headwater streams (above 1400 m – Serra da Estrela, Portugal), with dry periods of different lengths (0–3 months), were investigated in nearly undisturbed conditions to (i) examine spatial differences and identify environmental variables responsible for the observed invertebrate patterns, (ii) assess the association of dry period length with invertebrate community structure and (iii) determine the influence of using different taxonomic identification levels (order, family and genus) to assess invertebrate community patterns.
+
+2. More than 100 macroinvertebrate genera were identified. Insects clearly dominated these communities with more than 95% of total captures and around 95% of the total richness. Diptera were the most rich and abundant group with chironomid occurrences comprising over 70% of macroinvertebrate captures.
+
+3. The highest taxon richness, diversity, EPT (Ephemeroptera + Plecoptera + Trichoptera) and OCH (Odonata + Coleoptera + Heteroptera) genus richness, the greatest number of exclusive and characteristic taxa identified by the Indicator Value (IndVal), and a distinct community structure shown by Canonical Correspondence Analyses (CCA), were found in the only stream that was never totally dry, with pools lasting over summer. Environmental gradients that spatially structured the macroinvertebrate communities were always related to flow variations.
+
+4. Over time, the highest abundances found in these systems were also related to flow variations and maximum genus richness occurred in the connected pools or in isolated pools. Streams with longer dry periods presented a distinct recolonization phase, with higher abundance of the stonefly larvae Nemoura sp. and the presence of the chironomid larvae Krenosmittia sp., possibly arriving from the hyporheos.
+
+5. Taxonomic level of invertebrate identification was vital for recognizing the characteristic taxa (IndVal) of streams yet was not critical for identifying streams with the highest macroinvertebrate richness/diversity or structuring environmental gradients.
+
+6. Overall, this study emphasizes the variability of high altitude intermittent streams macroinvertebrate communities, despite spatial proximity. This variability was probably related to flow intermittency and hydrologic permanence, different vegetation covers and riverbed substrata. Consequently, the establishment of reference conditions should involve long-term data collections and more detailed physical characterization.

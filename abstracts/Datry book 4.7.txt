@@ -1,0 +1,19 @@
+CHAPTER 4.7: FOOD WEBS AND TROPHIC INTERACTIONS IN INTERMITTENT RIVERS AND EPHEMERAL STREAMS
+
+Authors: Angus R. McIntosh, Catherine Leigh, Kate S. Boersma, Peter A. McHugh, Catherine Febria, Emili García-Berthou
+
+IN A NUTSHELL
+
+- Contraction of aquatic habitats and expansion of terrestrial habitats associated with cessation of flow and drying in intermittent rivers and ephemeral streams (IRES) change the types, sizes, and abundance of organisms present; the interactions among those organisms; and the overall extent and nature of their trophic interactions
+
+- Drying affects microbial communities and thus detritus processing, heterotrophy can sustain stressed food webs, and autotrophy is important where conditions allow algal buildup
+
+- Spatial and temporal fragmentation of habitats can constrain, compress, and sometimes expand trophic interactions, often substantially increasing interaction strengths as drying progresses and affecting the lateral linking of aquatic and terrestrial food webs
+
+- Overall, drying reduces aquatic food chain length, trophic diversity, and connectance, but also triggers switches toward terrestrial energy pathways with the extent of food web modification linked to regional differences in climate, biota, and riparian conditions
+
+INTRODUCTION
+
+The loss of streamflow, and associated contraction of aquatic ecosystems and expansion of terrestrial ecosystems, inescapably alters the dimensions, conditions, resources, and connections in those habitats. This changes the types, sizes, and abundance of organisms present, and the interactions among those organisms, including the extent and nature of their trophic interactions. Thus, the food webs of aquatic and terrestrial systems and their linkage are all affected by the loss of flow and subsequent drying. The chapter reviews how these linked food webs and trophic interactions are affected by flow cessation and drying, highlighting the mechanisms involved, the emergent patterns within and across river systems, and the insights that can be gleaned both for management and ecological understanding.
+
+Source: Intermittent Rivers and Ephemeral Streams. 2017 Elsevier Inc. All rights reserved.

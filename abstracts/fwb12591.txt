@@ -1,0 +1,9 @@
+1. Previous studies of invertebrate responses to hydrological disconnection from the flow and drying have focussed on habitats with long hydroperiods (dry slowly after disconnection, i.e. months to years). We focus here on the effects of short hydroperiods (dry rapidly after disconnection, i.e. hours to days) on river invertebrate communities and insect emergence.
+
+2. We used natural scour pools in an alluvial river to measure changes in the invertebrate benthos and insect emergence during a 5-month drought. The scour pools represented a gradient of hydroperiods (time from disconnection to complete water loss). We monitored water level and physicochemical conditions continuously. Benthic invertebrates on the bottom of each pool and aquatic insects that emerged from the surface of each pool as aerial adults were sampled at 1- to 7-day intervals during connected, disconnected and dry periods. We used the data on water level to group the pools into quick-drying and slow-drying hydroperiod classes.
+
+3. Community structure changed as pools disconnected and dried. The densities of larval Diptera were higher in the connected period than in the disconnected period, while those of larval Ephemeroptera and Trichoptera pupae were higher in the disconnected period. Taxon richness was higher in quick-drying than in slow-drying pools. Shannon–Wiener diversity increased as water level decreased in slow-drying pools, but there was no detectable effect of water level on diversity in quick-drying pools.
+
+4. Total emergence of aquatic insects increased with decreasing water level in the scour pools. However, emergence rates (individuals per day) of Ephemeroptera and the numerically dominant genus Deleatidium decreased with declining water level.
+
+5. Some aquatic insects did not complete development in quick-drying pools. Benthic invertebrates that persisted in pools until complete drying were dominated by taxa with desiccation-resistance traits.

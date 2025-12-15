@@ -1,0 +1,18 @@
+GEOMORPHOLOGY AND SEDIMENT REGIMES OF INTERMITTENT RIVERS AND EPHEMERAL STREAMS
+
+Chapter 2.1 from: Intermittent Rivers and Ephemeral Streams (2017)
+Authors: Kristin L. Jaeger, Nicholas A. Sutfin, Stephen Tooth, Katerina Michaelides, Michael Singer
+
+IN A NUTSHELL:
+- As intermittent rivers and ephemeral streams (IRES) occur in all climates and across a range of scales and tectonic, lithological, and physiographic settings, generalizing about their geomorphology is challenging
+- Valley-floor (i.e., channel and floodplain) processes and forms in IRES are extremely diverse and span a spectrum from distinctly different to overlapping with perennial systems
+- Hydrological and sediment regimes are the primary drivers of IRES valley-floor processes and forms
+- Variations in valley-floor processes and forms can be analyzed by considering the position along the river network
+- Valley-floor morphology in IRES may persist for years to decades or longer, but also can be highly transient, adjusting with every competent flow event
+
+INTRODUCTION:
+The physical characteristics of a river or stream channel—its size, shape, and dominant substrate—provide the template for physiochemical and biological processes. These physical characteristics are strongly influenced by hydrological and sediment regimes, which collectively encompass the nature of water and sediment delivery to the channel, and the erosional and depositional patterns within and adjacent to the channel.
+
+The physical characteristics of intermittent rivers and ephemeral streams (hereafter, IRES) are extremely diverse and span a spectrum from those that resemble their perennial counterparts to those that are distinctly different. This diversity underpins and promotes diverse, and in some respects distinctive, ecologies.
+
+This chapter describes the geomorphology and sediment regimes of IRES occurring across a broad range of climates over scales of space and time that extend from reach-scale, single floods to network-wide, centennial-scale flow sequences. The chapter outlines the main determinants of IRES catchment conditions and how IRES can be analyzed within a catchment-scale framework that identifies and delineates the dominant geomorphological processes driving valley-floor (i.e., channel and floodplain) development.

@@ -1,0 +1,20 @@
+Title: Collecting insects to conserve them: a call for ethical caution
+
+Authors: Bob Fischer and Brendon M. H. Larson
+
+Journal: Insect Conservation and Diversity (2019) 12, 173-182
+DOI: 10.1111/icad.12344
+
+ABSTRACT:
+
+1. Insect sampling for the purpose of measuring biodiversity - as well as entomological research more generally - largely assumes that insects lack consciousness. Here, we briefly present some arguments that insects are conscious and encourage entomologists to revisit their ethical codes in light of them.
+
+2. Specifically, we adapt the Three Rs, guidelines proposed in 1959 by WMS Russell and RL Burch that have become the dominant way of thinking about the ethics of using animals in research.
+
+3. The Three Rs specify the need to replace, reduce, and refine the use of animals in research, yet have received little attention in entomological circles, which is perhaps unsurprising given that Russell and Burch explicitly excluded invertebrates from their purview.
+
+4. As a specific case, we consider issues of suffering and bycatch in the use of Malaise traps for insect sampling.
+
+5. While we do not claim that entomologists have an obligation to adopt the Three Rs framework wholesale, we do suggest that there is reason to adopt it in a modified form to mitigate moral risk especially in the context of conservation.
+
+Key words: 3Rs, consciousness, ethics, insect collection.
